@@ -4,7 +4,12 @@ using System.Text;
 
 namespace PirateSpeakTDD
 {
-    class PirateSpeakFilter
+    public class PirateSpeakFilter
     {
+
+        public List<string> Translator(string jumbleWord, List<string> possibleWords)
+        {
+
+        }
     }
 }
