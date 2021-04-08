@@ -1,0 +1,13 @@
+C:\Users\cloja\source\repos\Back-End\PirateSpeakTDD\PirateSpeakTDD\obj\Debug\netcoreapp3.1\PirateSpeakTDD.csprojAssemblyReference.cache
+C:\Users\cloja\source\repos\Back-End\PirateSpeakTDD\PirateSpeakTDD\obj\Debug\netcoreapp3.1\PirateSpeakTDD.AssemblyInfoInputs.cache
+C:\Users\cloja\source\repos\Back-End\PirateSpeakTDD\PirateSpeakTDD\obj\Debug\netcoreapp3.1\PirateSpeakTDD.AssemblyInfo.cs
+C:\Users\cloja\source\repos\Back-End\PirateSpeakTDD\PirateSpeakTDD\obj\Debug\netcoreapp3.1\PirateSpeakTDD.csproj.CoreCompileInputs.cache
+C:\Users\cloja\source\repos\Back-End\PirateSpeakTDD\PirateSpeakTDD\bin\Debug\netcoreapp3.1\PirateSpeakTDD.exe
+C:\Users\cloja\source\repos\Back-End\PirateSpeakTDD\PirateSpeakTDD\bin\Debug\netcoreapp3.1\PirateSpeakTDD.deps.json
+C:\Users\cloja\source\repos\Back-End\PirateSpeakTDD\PirateSpeakTDD\bin\Debug\netcoreapp3.1\PirateSpeakTDD.runtimeconfig.json
+C:\Users\cloja\source\repos\Back-End\PirateSpeakTDD\PirateSpeakTDD\bin\Debug\netcoreapp3.1\PirateSpeakTDD.runtimeconfig.dev.json
+C:\Users\cloja\source\repos\Back-End\PirateSpeakTDD\PirateSpeakTDD\bin\Debug\netcoreapp3.1\PirateSpeakTDD.dll
+C:\Users\cloja\source\repos\Back-End\PirateSpeakTDD\PirateSpeakTDD\bin\Debug\netcoreapp3.1\PirateSpeakTDD.pdb
+C:\Users\cloja\source\repos\Back-End\PirateSpeakTDD\PirateSpeakTDD\obj\Debug\netcoreapp3.1\PirateSpeakTDD.dll
+C:\Users\cloja\source\repos\Back-End\PirateSpeakTDD\PirateSpeakTDD\obj\Debug\netcoreapp3.1\PirateSpeakTDD.pdb
+C:\Users\cloja\source\repos\Back-End\PirateSpeakTDD\PirateSpeakTDD\obj\Debug\netcoreapp3.1\PirateSpeakTDD.genruntimeconfig.cache
